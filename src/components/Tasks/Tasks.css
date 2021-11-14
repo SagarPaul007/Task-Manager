@@ -1,0 +1,11 @@
+.tasks {
+  margin: 50px;
+  color: #fff;
+  text-align: center;
+}
+
+.all-tasks {
+  margin: 0 50px;
+  padding: 20px 50px;
+  background-color: rgb(12, 28, 46);
+}
